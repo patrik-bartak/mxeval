@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "mxeval"
+version = "1.0.0"
+description = ""
+authors = ["AWS AI Labs"]
+license = "Apache License 2.0"
+readme = "README.md"
+include = [
+    { path = "data", format = ["sdist", "wheel"] }
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+tqdm = "^4.66.2"
+fire = "^0.5.0"
+numpy = "^1.26.4"
+
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
