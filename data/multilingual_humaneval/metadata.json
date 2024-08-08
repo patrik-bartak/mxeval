@@ -4,7 +4,7 @@
   "go": "HumanEval_go_v1.jsonl",
   "java": "HumanEval_java_v1.1.jsonl",
   "javascript": "HumanEval_javascript_v1.1.jsonl",
-  "kotlin": "HumanEval_kotlin_v1.1.jsonl",
+  "kotlin": "HumanEval_kotlin_jb.jsonl",
   "perl": "HumanEval_perl_v1.1.jsonl",
   "php": "HumanEval_php_v1.1.jsonl",
   "ruby": "HumanEval_ruby_v1.1.jsonl",
